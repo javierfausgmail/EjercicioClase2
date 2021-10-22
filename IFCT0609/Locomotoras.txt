@@ -1,0 +1,6 @@
+Locomotora [matricula=1111111F, potencia=3000, anyoFabricacion=1995, mec=Mecanico [nombre=Juan, telefono=978765543, especialidad=Motores]]
+Locomotora [matricula=2222222F, potencia=3000, anyoFabricacion=1995, mec=Mecanico [nombre=Juan, telefono=978765543, especialidad=Motores]]
+Locomotora [matricula=3333333F, potencia=3000, anyoFabricacion=1995, mec=Mecanico [nombre=Juan, telefono=978765543, especialidad=Motores]]
+Locomotora [matricula=1111111F, potencia=3000, anyoFabricacion=1995, mec=Mecanico [nombre=Juan, telefono=978765543, especialidad=Motores]]
+Locomotora [matricula=2222222F, potencia=3000, anyoFabricacion=1995, mec=Mecanico [nombre=Juan, telefono=978765543, especialidad=Motores]]
+Locomotora [matricula=3333333F, potencia=3000, anyoFabricacion=1995, mec=Mecanico [nombre=Juan, telefono=978765543, especialidad=Motores]]
